@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danial Qumsieh 
 - 👀 I’m interested in Java!
-- 🌱 I’m currently learning web developing.
+- 🌱 I’m currently learning Web Development, Database Systems Management, and some Software Engineering principles like user interaction and design,  and Software Requirements Engineering.
 - 💞️ I’m looking to collaborate on small projects with java.
 - 📫 How to reach me: insta: @danielqumsieh
 
